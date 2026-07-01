@@ -1,0 +1,652 @@
+canonical_identifier: bkk:krp/KR6q0202/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0202/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古瓶山牧道者究心錄
+  identifiers:
+    krp: KR6q0202
+    cbeta: J28nB207
+    cbeta_old_id: J28nB207
+    authorityid: CA0005882
+    json_key: JB207
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J28/J28nB207.xml
+    old_id: J28nB207
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0202_000-J.yaml, hash: 'sha256:ca2863996c637edaedcb2e04680d4c901400eeb799600217d36910456d4a922e'}
+  - {seq: 1, filename: KR6q0202_001-J.yaml, hash: 'sha256:7ee7e3a886c27564457c9a66f8e01ebcd51a6b04a476e748b54ea94d5c849ae7'}
+  - {seq: 2, filename: KR6q0202_002-J.yaml, hash: 'sha256:fa6b53e3f2a9b4a5fcf07269bff6a33705e07e77ac6eef8be300e8217a1e680c'}
+  - {seq: 3, filename: KR6q0202_003-J.yaml, hash: 'sha256:fbcc75f65d25cf1157309c6fc543075368c02ce7944622f616a5f9eddfa5d6d9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0202_000-J.markers.yaml, hash: 'sha256:3bca75df9b292f0d3b6e01595579f2fe3b1359c0ec7f00b11b14bb836b0b98f3'}
+  - {seq: 1, role: markers, filename: assets/KR6q0202_001-J.markers.yaml, hash: 'sha256:7996e02736342801aad6809e948fc5971cb2502e2ff631ae9cc75d199a211049'}
+  - {seq: 2, role: markers, filename: assets/KR6q0202_002-J.markers.yaml, hash: 'sha256:4299628b595a23c1baa94980df021bebf0898d9cc11c071ce305b9e686319e0b'}
+  - {seq: 3, role: markers, filename: assets/KR6q0202_003-J.markers.yaml, hash: 'sha256:d0bd85a78eb24851fb200724958fe6e97705d43b6ec643c024eed9a5eed6b8fd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 像
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-2
+    span:
+    - front
+    - 8
+    - 8
+  label: 自題
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-3
+    span:
+    - front
+    - 159
+    - 159
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-4
+    span:
+    - front
+    - 159
+    - 159
+  label: 譚貞默序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-5
+    span:
+    - front
+    - 485
+    - 485
+  label: 范驤
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-6
+    span:
+    - front
+    - 492
+    - 492
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-7
+    span:
+    - front
+    - 524
+    - 524
+  label: 自題
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-8
+    span:
+    - front
+    - 675
+    - 675
+  label: 松石圖卷像贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-9
+    span:
+    - front
+    - 682
+    - 682
+  label: 牧雲門和尚贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-10
+    span:
+    - front
+    - 806
+    - 806
+  label: 覺浪盛和尚贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-11
+    span:
+    - front
+    - 871
+    - 871
+  label: 本師和尚贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-12
+    span:
+    - front
+    - 937
+    - 937
+  label: 一初元和尚贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-13
+    span:
+    - front
+    - 2317
+    - 2317
+  label: 新增像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-14
+    span:
+    - front
+    - 2321
+    - 2321
+  label: 木陳忞和尚贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-15
+    span:
+    - front
+    - 2405
+    - 2405
+  label: 玉林琇和尚贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0202_J_000-mulu-16
+    span:
+    - front
+    - 2892
+    - 2892
+  label: 傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0202_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 3621
+  label: 古瓶山牧道者究心錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0202_J_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 小參　示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0202_J_001-mulu-2
+    span:
+    - body
+    - 2855
+    - 2855
+  label: 機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0202_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 6528
+  label: 古瓶山牧道者究心錄
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0202_J_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0202_J_002-mulu-2
+    span:
+    - body
+    - 3318
+    - 3318
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 13461
+  label: 古瓶山牧道者究心錄
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 源流頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-2
+    span:
+    - body
+    - 9173
+    - 9173
+  label: 偈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-3
+    span:
+    - body
+    - 9175
+    - 9175
+  label: 十二時偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-4
+    span:
+    - body
+    - 9467
+    - 9467
+  label: 金明老人移梅掘深土得斷碑半截額有宋天封佛慈禪師蜜蜂頌五首賡和原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-5
+    span:
+    - body
+    - 9639
+    - 9639
+  label: 己亥仲冬贈素穎法兄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-6
+    span:
+    - body
+    - 9688
+    - 9688
+  label: 子先羅道兄見過并賜佳什和答二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-7
+    span:
+    - body
+    - 9745
+    - 9745
+  label: 拄杖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-8
+    span:
+    - body
+    - 9763
+    - 9763
+  label: 癭瓢
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-9
+    span:
+    - body
+    - 9781
+    - 9781
+  label: 𨍏轢嚴道翁有瞿曇自畫張婆帳上像讚傍有蘭花二本一日托婿譚鄴侯持一箋索和賦此塞責
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-10
+    span:
+    - body
+    - 9847
+    - 9847
+  label: 庚子自題行樂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-11
+    span:
+    - body
+    - 9924
+    - 9924
+  label: 衲頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-12
+    span:
+    - body
+    - 9950
+    - 9950
+  label: 竹篦
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-13
+    span:
+    - body
+    - 9976
+    - 9976
+  label: 入園即事
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-14
+    span:
+    - body
+    - 10008
+    - 10008
+  label: 白拂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-15
+    span:
+    - body
+    - 10038
+    - 10038
+  label: 掃地
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-16
+    span:
+    - body
+    - 10068
+    - 10068
+  label: 庚子孟冬望前一日金明老人將　無趣祖法嗣駱懶翁饑來喫飯困來眠偈出閱喜而和之
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-17
+    span:
+    - body
+    - 10327
+    - 10327
+  label: 和普明禪師牧牛圖頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-18
+    span:
+    - body
+    - 10336
+    - 10336
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-19
+    span:
+    - body
+    - 10366
+    - 10366
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-20
+    span:
+    - body
+    - 10396
+    - 10396
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-21
+    span:
+    - body
+    - 10426
+    - 10426
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-22
+    span:
+    - body
+    - 10456
+    - 10456
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-23
+    span:
+    - body
+    - 10486
+    - 10486
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-24
+    span:
+    - body
+    - 10516
+    - 10516
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-25
+    span:
+    - body
+    - 10546
+    - 10546
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-26
+    span:
+    - body
+    - 10576
+    - 10576
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-27
+    span:
+    - body
+    - 10606
+    - 10606
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-28
+    span:
+    - body
+    - 10636
+    - 10636
+  label: 甲辰春仲望後一日至折蘆菴晤牧雲和尚適有曹村持菴金年翁念佛偈見惠索和聊爾率責不計工拙也
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-29
+    span:
+    - body
+    - 10762
+    - 10762
+  label: 書問
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-30
+    span:
+    - body
+    - 10764
+    - 10764
+  label: 復丁司理書
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-31
+    span:
+    - body
+    - 11150
+    - 11150
+  label: 復仲翁祝表兄書
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-32
+    span:
+    - body
+    - 11546
+    - 11546
+  label: 雜著
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-33
+    span:
+    - body
+    - 11548
+    - 11548
+  label: 跋夢堂法兄大師南溪小禪山八景
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-34
+    span:
+    - body
+    - 11687
+    - 11687
+  label: 諸經日誦序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-35
+    span:
+    - body
+    - 11973
+    - 11973
+  label: 重建明心庵勸緣疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-36
+    span:
+    - body
+    - 12191
+    - 12191
+  label: 太乙天尊濟度血湖拔罪寶懺序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-37
+    span:
+    - body
+    - 12665
+    - 12665
+  label: 重建文昌閣募疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-38
+    span:
+    - body
+    - 12906
+    - 12906
+  label: 梓童帝君本願經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0202_J_003-mulu-39
+    span:
+    - body
+    - 13233
+    - 13233
+  label: 題建州浦城華藏菴募毘盧佛像
+  type: mulu
+  level: 1
+hash: sha256:7de0c2bb7a8e49f05bb8dc5c289ad2a259f09acc4402aba81432f51e4fbf0201
