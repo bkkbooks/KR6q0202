@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0202/v1
 canonical_location: https://kanripo.org/bkk/KR6q0202/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 古瓶山牧道者究心錄
   identifiers:
@@ -21,15 +21,15 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0202_000.yaml, hash: 'sha256:ca2863996c637edaedcb2e04680d4c901400eeb799600217d36910456d4a922e'}
-  - {seq: 1, filename: KR6q0202_001.yaml, hash: 'sha256:7ee7e3a886c27564457c9a66f8e01ebcd51a6b04a476e748b54ea94d5c849ae7'}
-  - {seq: 2, filename: KR6q0202_002.yaml, hash: 'sha256:fa6b53e3f2a9b4a5fcf07269bff6a33705e07e77ac6eef8be300e8217a1e680c'}
-  - {seq: 3, filename: KR6q0202_003.yaml, hash: 'sha256:fbcc75f65d25cf1157309c6fc543075368c02ce7944622f616a5f9eddfa5d6d9'}
+  - {seq: 0, filename: KR6q0202_000.yaml, hash: 'sha256:d66d82fe4486431556a5fb64e040283a30744075ff2052e2f4dc0780dc210785'}
+  - {seq: 1, filename: KR6q0202_001.yaml, hash: 'sha256:5ee7a1bd7c0213ed3308c62e7c1ca302652a3bf12158aa12aecb3e6e6f393d7a'}
+  - {seq: 2, filename: KR6q0202_002.yaml, hash: 'sha256:bd359c314745e531a56d433d673c34ce8b19f9054a6f6a55d41e4fe8d23f72b0'}
+  - {seq: 3, filename: KR6q0202_003.yaml, hash: 'sha256:c415b565237e211b7d49dfd28966768d8926d7b16f8d8bcf3006d92a17706d0c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0202_000.markers.yaml, hash: 'sha256:9865bd430d9e782a3695bedb60dbd342b7807de7bffc2a7af6048737695adb0d'}
-  - {seq: 1, role: markers, filename: assets/KR6q0202_001.markers.yaml, hash: 'sha256:7fb00f233139fde3cb0938ee8ec1fc9568ae5982e69fc9e209c2cda024050653'}
-  - {seq: 2, role: markers, filename: assets/KR6q0202_002.markers.yaml, hash: 'sha256:3a64d419d12b9ca88aaed0147e5a3eb825952273ad66c4c5c82377ea8f537ff9'}
-  - {seq: 3, role: markers, filename: assets/KR6q0202_003.markers.yaml, hash: 'sha256:704c959c204d4424e12f710772dce50bcd1b0b16f0275d936d3261ac5ec08bc6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0202_000.markers.yaml, hash: 'sha256:57c62c716c2a51703e419c867603b2cfdb453537d9533fb0aefde1acf65b2aac'}
+  - {seq: 1, role: markers, filename: assets/KR6q0202_001.markers.yaml, hash: 'sha256:749b0e1b0f2b5ff9e7e0918677f9aaec383267e2e9562e6afb1a890561d9654e'}
+  - {seq: 2, role: markers, filename: assets/KR6q0202_002.markers.yaml, hash: 'sha256:5a199c61829f6bfd415aaf892633ab97adf6adaada9bca23e04b9149b3eab767'}
+  - {seq: 3, role: markers, filename: assets/KR6q0202_003.markers.yaml, hash: 'sha256:f70af015ac564dd946add7495815d5141562c6ba3383d7f4b57fea74acd6d6f5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -651,4 +651,7 @@ table_of_contents:
   label: 題建州浦城華藏菴募毘盧佛像
   type: mulu
   level: 1
-hash: sha256:b0b745797bfd395d836612ebffbaf82ba7a34f897a2e6987ce3bf70cbd6cff70
+hash: sha256:328804906e75977d91d34415473fd726608f6d0d0e0cd3f2800071fa8e863981
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
