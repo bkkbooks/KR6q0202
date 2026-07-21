@@ -19,12 +19,12 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0202_000-J.yaml, hash: 'sha256:ca2863996c637edaedcb2e04680d4c901400eeb799600217d36910456d4a922e'}
+  - {seq: 0, filename: KR6q0202_000-J.yaml, hash: 'sha256:f6bf9bbcaea88a9baa116b51f15d980c2e3f6614bffb7648a327cd5dc10e7eb7'}
   - {seq: 1, filename: KR6q0202_001-J.yaml, hash: 'sha256:7ee7e3a886c27564457c9a66f8e01ebcd51a6b04a476e748b54ea94d5c849ae7'}
   - {seq: 2, filename: KR6q0202_002-J.yaml, hash: 'sha256:fa6b53e3f2a9b4a5fcf07269bff6a33705e07e77ac6eef8be300e8217a1e680c'}
   - {seq: 3, filename: KR6q0202_003-J.yaml, hash: 'sha256:fbcc75f65d25cf1157309c6fc543075368c02ce7944622f616a5f9eddfa5d6d9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0202_000-J.markers.yaml, hash: 'sha256:3bca75df9b292f0d3b6e01595579f2fe3b1359c0ec7f00b11b14bb836b0b98f3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0202_000-J.markers.yaml, hash: 'sha256:c7e017984722c4ae57f0be1dfad4020748610380c07fb3011a0e6e472c2b1065'}
   - {seq: 1, role: markers, filename: assets/KR6q0202_001-J.markers.yaml, hash: 'sha256:7996e02736342801aad6809e948fc5971cb2502e2ff631ae9cc75d199a211049'}
   - {seq: 2, role: markers, filename: assets/KR6q0202_002-J.markers.yaml, hash: 'sha256:4299628b595a23c1baa94980df021bebf0898d9cc11c071ce305b9e686319e0b'}
   - {seq: 3, role: markers, filename: assets/KR6q0202_003-J.markers.yaml, hash: 'sha256:d0bd85a78eb24851fb200724958fe6e97705d43b6ec643c024eed9a5eed6b8fd'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 像
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-2
     span:
-    - front
+    - body
     - 8
     - 8
   label: 自題
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-3
     span:
-    - front
+    - body
     - 159
     - 159
   label: 序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-4
     span:
-    - front
+    - body
     - 159
     - 159
   label: 譚貞默序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-5
     span:
-    - front
+    - body
     - 485
     - 485
   label: 范驤
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-6
     span:
-    - front
+    - body
     - 492
     - 492
   label: 目次
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-7
     span:
-    - front
+    - body
     - 524
     - 524
   label: 自題
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-8
     span:
-    - front
+    - body
     - 675
     - 675
   label: 松石圖卷像贊
@@ -113,7 +113,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-9
     span:
-    - front
+    - body
     - 682
     - 682
   label: 牧雲門和尚贊
@@ -123,7 +123,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-10
     span:
-    - front
+    - body
     - 806
     - 806
   label: 覺浪盛和尚贊
@@ -133,7 +133,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-11
     span:
-    - front
+    - body
     - 871
     - 871
   label: 本師和尚贊
@@ -143,7 +143,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-12
     span:
-    - front
+    - body
     - 937
     - 937
   label: 一初元和尚贊
@@ -153,7 +153,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-13
     span:
-    - front
+    - body
     - 2317
     - 2317
   label: 新增像讚
@@ -163,7 +163,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-14
     span:
-    - front
+    - body
     - 2321
     - 2321
   label: 木陳忞和尚贊
@@ -173,7 +173,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-15
     span:
-    - front
+    - body
     - 2405
     - 2405
   label: 玉林琇和尚贊
@@ -183,7 +183,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0202_J_000-mulu-16
     span:
-    - front
+    - body
     - 2892
     - 2892
   label: 傳
@@ -649,4 +649,4 @@ table_of_contents:
   label: 題建州浦城華藏菴募毘盧佛像
   type: mulu
   level: 1
-hash: sha256:7de0c2bb7a8e49f05bb8dc5c289ad2a259f09acc4402aba81432f51e4fbf0201
+hash: sha256:ebb721080f3df6e19b58d740504214c9b0d3da6e2fb3982b04d66dc621492db2
